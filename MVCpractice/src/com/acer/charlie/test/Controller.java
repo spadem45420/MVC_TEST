@@ -11,6 +11,8 @@ import com.acer.charlie.test.UserVo;
 public class Controller implements IController {
 	
 	public Model model = new Model();
+	
+	private String test;
 
 	@Override
 	public List<String> getTowns(String id) {

@@ -89,7 +89,7 @@ public class ControllerFactory {
 	
 	public String readSetPropertyClass2() {
 		Properties properties = new Properties();
-		String configFile = "controller_settin.properties";
+		String configFile = "controller_setting.properties";
 		try {
 		    properties.load(ControllerFactory.class.getResourceAsStream(configFile));
 		} catch (FileNotFoundException ex) {
