@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Something was happen</comment>
+<entry key="contoller">com.acer.charlie.test.Controller</entry>
+</properties>
